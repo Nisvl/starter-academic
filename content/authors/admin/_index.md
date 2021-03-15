@@ -16,7 +16,7 @@ organizations:
   url: http://findresearcher.sdu.dk:8080/portal/da/person/nisvl 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I do research at the intersection of health and labor economics on topics ranging from the effect of antidepressant to the impact of children on labour market outcomes.  
+#bio: I do research at the intersection of health and labor economics on topics ranging from the effect of antidepressant to the impact of children on labour market outcomes.  
 
 # Interests to show in About widget
 interests:
@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: M.Sc.  Economics
-    institution: Univsersity of Sourthen Denmark
+    institution: University of Sourthen Denmark
     year: 2017
 
 
@@ -51,9 +51,9 @@ output:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -62,8 +62,10 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm a PhD student in the Department of Business and Economics at the university of Sourthern Denmark and employed at VIVE - The Danish Center for Social Science Research. I have a BSc and MSc in economics from the University of Sourthern Denmark. I hand in my dissertation June 2021. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I'm an applied microeconomist with research interests at the intersection of health and labour economics. My dissertation is about the impact of health interventions on socioeconomic outcomes and the role of clinical guidelines in rationing care. I use register data and quasi experiments to find causal effects. 
+
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "/media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
