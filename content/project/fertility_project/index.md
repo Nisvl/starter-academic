@@ -9,6 +9,10 @@ links:
   name: Working paper
   url: https://www.dropbox.com/s/d9nh5043keb87os/main.pdf?dl=0
 
+url_slides: https://www.dropbox.com/s/e7xv7ikxlqq9ce8/Fertility_slides.pdf?dl=0
+
+authors: ["Nis Lydiksen"]  
+
 ---
 In this paper I study the labour market effects of having additional children. I find
 a limited impact of going from two to three children using a novel source of exogenous
